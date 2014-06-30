@@ -6,10 +6,10 @@
         id        = "NVNQZK947V.com.jmoffett.nascar.*"
         version   = "1.0.0">
 
-    <name>The Office Employees with Local DB</name>
+    <name>NASCAR Drivers App</name>
 
     <description>
-        The Office Employees with Local DB
+        Test app for offline syncing
     </description>
 
     <author href="http://sitrovainnovation.com" email="jmoffett@sitrovainnovation.com">
